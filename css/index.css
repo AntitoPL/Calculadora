@@ -33,8 +33,8 @@ body {
 
 .calc-botones {
     display:grid;
-    grid-template-columns: repeat(6, 5rem);
-    grid-template-rows: repeat(6, 5rem);
+    grid-template-columns: repeat(6, 4rem);
+    grid-template-rows: repeat(6, 4rem);
     /*background-color: rgba(137, 16, 185, 0.562);*/
     row-gap: 1px;
     column-gap: 1px;
